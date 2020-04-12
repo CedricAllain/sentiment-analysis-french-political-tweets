@@ -9,4 +9,4 @@ April 12th, 2020
 
 # Note
 Please download train model at the following likn:
-https://drive.google.com/file/d/15Z5Eg3v4SdyP1yVhb913GYJwp_ARQLIn/view?usp=sharing
+https://drive.google.com/file/d/1NuM46BC8w5Cvz2cck6SetrJZLKHXIxBZ/view?usp=sharing
