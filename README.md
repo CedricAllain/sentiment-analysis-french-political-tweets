@@ -6,3 +6,7 @@ Project done as part of the Machine Learning for Natural Language Processing cou
 Authors: Clotilde Miura, Cédric Allain
 
 April 12th, 2020
+
+# Note
+Please download train model at the following likn:
+https://drive.google.com/file/d/15Z5Eg3v4SdyP1yVhb913GYJwp_ARQLIn/view?usp=sharing
