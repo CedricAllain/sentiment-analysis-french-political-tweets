@@ -10,3 +10,6 @@ April 12th, 2020
 # Note
 Please download train model at the following likn:
 https://drive.google.com/file/d/1NuM46BC8w5Cvz2cck6SetrJZLKHXIxBZ/view?usp=sharing
+
+Or, the full repo on Google Drive (model + data):
+https://drive.google.com/drive/folders/1igVkKQ2Gku5wg7BxmHgeMtcM6Zqy-8oZ?usp=sharing
